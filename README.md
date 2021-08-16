@@ -7,6 +7,7 @@ Repository Contains:
 2. Folder containing graphs from python code (These were not able to format correcting when upload on Github so I made a folder for them)
 3. Tableau Dashboard
 4. Video Game Sales Dataset
+5. Final Analysis Report
 
 
 
